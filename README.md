@@ -1,2 +1,2 @@
-yoshiwara_blog
+test_blog
 ==============
